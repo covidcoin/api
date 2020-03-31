@@ -1,0 +1,2 @@
+# api
+GraphQL API schema
